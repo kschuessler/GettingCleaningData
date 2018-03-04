@@ -1,4 +1,4 @@
-# Codebook for _Getting and Cleaning Data_ Course Project"
+# Codebook for _Getting and Cleaning Data_ Course Project
 
 
 This code book describes the data included in ```tidy_data.txt``` that can be found in this repository.
